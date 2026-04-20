@@ -1,59 +1,88 @@
 # Hi 👋, I'm Aryan Kushwaha
 
-### Full-Stack Web Developer & Problem Solver from Bihar, India 🇮🇳
-
-🔭 I’m currently working on **Movie Recommendation Platform**  
-🌱 I’m currently learning **React.js, Node.js & Backend Development**  
-💬 Ask me about **JavaScript, HTML, CSS, Python, C**  
-📫 How to reach me: **aryankushwaha.work@gmail.com**  
-⚡ Fun fact: **I love building interactive websites and games**
-
-### Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushwaha-aryan)
+<p align="center">
+🚀 Full-Stack Developer | Problem Solver | India 🇮🇳
+</p>
 
 ---
 
-### 🚀 My Live Projects
+## 💫 About Me
 
-**🎥 MovieV2**  
-Modern movie browsing web app with search, filters & infinite scroll.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://kushwaha-aryan.github.io/MovieV2/)  
-[View Repository →](https://github.com/kushwaha-aryan/MovieV2)
-
-**📄 Resume / Portfolio**  
-Clean and responsive personal resume website.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://kushwaha-aryan.github.io/resume/)  
-[View Repository →](https://github.com/kushwaha-aryan/resume)
-
-**🎮 RPG Game**  
-Browser-based Role Playing Game with movement and combat.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-34A853?style=for-the-badge&logo=vercel&logoColor=white)](https://kushwaha-aryan.github.io/rpg/)  
-[View Repository →](https://github.com/kushwaha-aryan/rpg)
+- 🔭 Working on **Movie Recommendation Platform**
+- 🌱 Learning **React, Node.js, Backend Development**
+- 💬 Ask me about **JavaScript, Python, Web Dev, C**
+- 📫 Email: **aryankushwaha9829@gmail.com**
+- ⚡ Fun fact: I break code more than I build it (then fix it… eventually)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🌐 Connect With Me
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<p align="center">
+<a href="https://github.com/kushwaha-aryan">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack (what I actually use)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kushwaha-aryan)
+<p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushwaha-aryan&theme=tokyonight&hide_border=true)](https://github.com/kushwaha-aryan)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🎥 MovieV2
+Movie search + filters + infinite scroll  
+👉 https://kushwaha-aryan.github.io/MovieV2/  
+Repo: https://github.com/kushwaha-aryan/MovieV2  
+
+---
+
+### 📄 Resume Website
+Clean responsive portfolio site  
+👉 https://kushwaha-aryan.github.io/resume/  
+Repo: https://github.com/kushwaha-aryan/resume  
+
+---
+
+### 🎮 RPG Game
+Browser-based game with movement + combat  
+👉 https://kushwaha-aryan.github.io/rpg/  
+Repo: https://github.com/kushwaha-aryan/rpg  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kushwaha-aryan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwaha-aryan&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🧠 Tools & Vibes
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-DSA-blue?style=for-the-badge"/>
+
+</p>
