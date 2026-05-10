@@ -83,4 +83,4 @@
 ---
 
 <h3>LeetCode:</h3>
-<p><img src="https://leetcard.jacoblin.cool/dartGoblin72?theme=dark&font=baloo&ext=contest" /></p>
+<p><img src="https://leetcard.jacoblin.cool/dartGoblin42?theme=dark&font=baloo&ext=contest" /></p>
