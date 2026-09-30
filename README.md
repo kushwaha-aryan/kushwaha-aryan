@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aryan Kushwaha</h1>
-
-<h3 align="center">Full-Stack Developer · Problem Solver · India 🇮🇳</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/banner.svg" alt="Aryan Kushwaha - Full-Stack Developer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kushwaha-aryan"><img src="https://img.shields.io/badge/GitHub-kushwaha--aryan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -11,13 +11,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kushwaha-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kushwaha-aryan?label=Followers&logo=github&color=7c3aed&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/kushwaha-aryan/AgenticAI?label=Last%20commit&color=ec4899&style=flat" alt="Last commit" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **Movie Recommendation Platform**
+- 🔭 Currently building **MovieV3 + Recommender**, a movie site with recommendations
 - 🌱 Learning **Node.js · Backend Development · REST APIs · Database Design**
 - 👯 Looking to collaborate on **full-stack web apps** and **open source JavaScript / Python projects**
 - 💬 Ask me about **JavaScript, Python, Web Development, C, Node.js**
@@ -43,30 +45,34 @@
 
 ## 📂 Projects
 
-| Project | Description | Links |
-| :-- | :-- | :-- |
-| 🎥 **MovieV3** | Movie browsing site with search and details from a live API (successor to MovieV2, which had filters + infinite scroll) | [Live](https://kushwaha-aryan.github.io/movieV3/) · [Repo](https://github.com/kushwaha-aryan/movieV3) |
-| 📄 **Resume Website** | Clean, responsive portfolio site with a dark aesthetic | [Live](https://kushwaha-aryan.github.io/resume/) · [Repo](https://github.com/kushwaha-aryan/resume) |
-| 🎮 **RPG Game** | Browser-based "Dragon Repeller" game: store, cave, and dragon fight | [Live](https://kushwaha-aryan.github.io/rpg/) · [Repo](https://github.com/kushwaha-aryan/rpg) |
-| 🍿 **Movie Recommendation Platform** | *In progress* | [Follow along](https://github.com/kushwaha-aryan) |
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/kushwaha-aryan/AgenticAI"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/card-agenticai.svg" alt="AgenticAI" width="100%" /></a><br />
+      <a href="https://github.com/kushwaha-aryan/AgenticAI"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/btn-repo-wide.svg" alt="AgenticAI repository" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/kushwaha-aryan/movieV3"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/card-moviev3.svg" alt="MovieV3 + Recommender" width="100%" /></a><br />
+      <a href="https://kushwaha-aryan.github.io/movieV3/"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/btn-live.svg" alt="MovieV3 live demo" width="48%" /></a>
+      <a href="https://github.com/kushwaha-aryan/movieV3"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/btn-repo.svg" alt="MovieV3 repository" width="48%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/kushwaha-aryan/resume"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/card-resume.svg" alt="Resume Website" width="49%" /></a><br />
+      <a href="https://kushwaha-aryan.github.io/resume/"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/btn-live.svg" alt="Resume live demo" width="24%" /></a>
+      <a href="https://github.com/kushwaha-aryan/resume"><img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/btn-repo.svg" alt="Resume repository" width="24%" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kushwaha-aryan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kushwaha-aryan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/stats.svg" alt="GitHub stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/kushwaha-aryan/storage/main/languages.svg" alt="Top languages" width="48%" />
 </p>
 
 ---
@@ -78,3 +84,17 @@
     <img src="https://leetcard.jacoblin.cool/dartGoblin42?theme=dark&font=baloo&ext=contest" alt="LeetCode stats" />
   </a>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Open to collaborating on full-stack and open source projects. Drop me a message!
+</p>
+
+<p align="center">
+  <a href="mailto:aryankushwaha9829@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-aryankushwaha9829%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+</p>
+
+<p align="center"><sub>⭐ If you like something here, a star on a repo makes my day.</sub></p>
