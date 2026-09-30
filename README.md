@@ -22,15 +22,15 @@
 <br/><br/><br/>
 
 <!-- ABOUT -->
-<img src="assets/h-about.svg" alt="About Me" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:667eea,100:f093fb&height=170&text=About%20Me&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="About Me" />
 
 <br/><br/>
 
-<img src="assets/about-building.svg" width="400" alt="Building" />
-<img src="assets/about-learning.svg" width="400" alt="Learning" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=300&text=Building&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=A%20Movie%20Recommendation%20Platform&descSize=30&descAlignY=72" width="400" alt="Building" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=300&text=Learning&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Node.js%20%C2%B7%20REST%20APIs%20%C2%B7%20Databases&descSize=30&descAlignY=72" width="400" alt="Learning" />
 <br/>
-<img src="assets/about-collab.svg" width="400" alt="Collaborating" />
-<img src="assets/about-ask.svg" width="400" alt="Ask me about" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:d57eeb&height=300&text=Collaborating&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%26%20open%20source%20JS%2FPython&descSize=30&descAlignY=72" width="400" alt="Collaborating" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a6c0fe,100:f68084&height=300&text=Ask%20me%20about&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=JavaScript%20%C2%B7%20Python%20%C2%B7%20C%20%C2%B7%20Node.js&descSize=30&descAlignY=72" width="400" alt="Ask me about" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 <br/><br/>
 
 <!-- TECH STACK -->
-<img src="assets/h-stack.svg" alt="Tech Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:43cea2,100:185a9d&height=170&text=Tech%20Stack&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -54,22 +54,22 @@
 <br/><br/><br/>
 
 <!-- PROJECTS -->
-<img src="assets/h-projects.svg" alt="Featured Projects" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:f093fb,100:f5576c&height=170&text=Featured%20Projects&fontSize=70&fontColor=ffffff&fontAlignY=50" width="340" alt="Featured Projects" />
 
 <br/><br/>
 
-<a href="https://kushwaha-aryan.github.io/movieV3/"><img src="assets/p-movie.svg" width="260" alt="MovieV3" /></a>
-<a href="https://kushwaha-aryan.github.io/resume/"><img src="assets/p-resume.svg" width="260" alt="Resume Website" /></a>
-<a href="https://kushwaha-aryan.github.io/rpg/"><img src="assets/p-rpg.svg" width="260" alt="RPG Game" /></a>
+<a href="https://kushwaha-aryan.github.io/movieV3/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=560&text=MovieV3&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Movie%20search%20%26%20discovery&descSize=44&descAlignY=78" width="260" alt="MovieV3" /></a>
+<a href="https://kushwaha-aryan.github.io/resume/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=560&text=Resume%20Site&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Clean%2C%20responsive%20portfolio&descSize=44&descAlignY=78" width="260" alt="Resume Site" /></a>
+<a href="https://kushwaha-aryan.github.io/rpg/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:f5576c&height=560&text=RPG%20Game&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Browser%20game%3A%20move%20%26%20fight&descSize=44&descAlignY=78" width="260" alt="RPG Game" /></a>
 <br/>
-<a href="https://github.com/kushwaha-aryan/movieV3"><img src="assets/src-movie.svg" width="260" alt="MovieV3 source" /></a>
-<a href="https://github.com/kushwaha-aryan/resume"><img src="assets/src-resume.svg" width="260" alt="Resume source" /></a>
-<a href="https://github.com/kushwaha-aryan/rpg"><img src="assets/src-rpg.svg" width="260" alt="RPG source" /></a>
+<a href="https://github.com/kushwaha-aryan/movieV3"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
+<a href="https://github.com/kushwaha-aryan/resume"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
+<a href="https://github.com/kushwaha-aryan/rpg"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:f5576c&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
 
 <br/><br/><br/>
 
 <!-- STATS -->
-<img src="assets/h-stats.svg" alt="GitHub Stats" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:4facfe,100:00f2fe&height=170&text=GitHub%20Stats&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -87,7 +87,7 @@
 <br/><br/><br/>
 
 <!-- LEETCODE -->
-<img src="assets/h-leetcode.svg" alt="LeetCode" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fa709a,100:fee140&height=170&text=LeetCode&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="LeetCode" />
 
 <br/><br/>
 
