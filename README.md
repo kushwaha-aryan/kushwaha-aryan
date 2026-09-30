@@ -1,106 +1,338 @@
-<div align="center">
+<h1 align="center">Hey, I'm Aryan Kushwaha</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:667eea,50:764ba2,100:f093fb&text=Aryan%20Kushwaha&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<p align="center">
+  <b>B.Tech AI & ML Engineering · Full-Stack Developer · Problem Solver</b>
+</p>
 
-<a href="https://github.com/kushwaha-aryan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A18CD1&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+full-stack+web+apps;%F0%9F%8E%AC+Working+on+a+Movie+Recommendation+Platform;%F0%9F%8C%B1+Learning+Node.js+%26+REST+APIs;%F0%9F%90%9B+I+break+code+more+than+I+build+it...;%E2%9C%A8+...then+I+fix+it.+Eventually." alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/kushwaha-aryan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/dartGoblin42/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:aryankushwaha9829@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushwa-aryan&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge"/>
+</p>
+
+---
+
+## `> whoami`
+
+```cpp
+class Aryan {
+public:
+    string degree = "B.Tech AI & Machine Learning Engineering";
+    string university = "BIT Mesra — Off Campus, Patna";
+
+    vector<string> interests = {
+        "Software Development",
+        "Backend Engineering",
+        "Data Structures & Algorithms",
+        "AI / Machine Learning"
+    };
+
+    string current_goal =
+        "Become a strong software engineer with an AI/ML edge";
+};
+```
+
+I like building things that actually work, from full-stack applications to ML systems, while continuously improving my problem-solving skills.
+
+Currently somewhere between:
+
+`build → break → debug → understand → repeat`
+
+---
+
+## What I'm Working On
+
+* 🧠 **DSA & Problem Solving** — consistently practicing on LeetCode
+* ⚙️ **Backend Development** — Node.js, Express, REST APIs & databases
+* 🤖 **AI/ML** — practical ML systems and AI-powered applications
+* ☁️ **Cloud** — learning AWS fundamentals and deployment
+* 🚀 **Projects** — building practical projects instead of collecting tutorial certificates
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎬 MovieV3
+
+Full-stack movie discovery and recommendation platform.
+
+**Features**
+
+* 🔐 User authentication
+* ❤️ Favorites
+* 📌 Watchlist
+* ✅ Watched movies
+* 🔎 Movie search
+* 🎭 Genre filtering
+* ↕️ Sorting
+* 🤖 AI-powered recommendations
+
+**Stack**
+
+`JavaScript` `Node.js` `Express` `MongoDB` `REST API`
+
+<p>
+<a href="https://kushwaha-aryan.github.io/movieV3/">
+<img src="https://img.shields.io/badge/Live%20Demo-6366f1?style=for-the-badge"/>
 </a>
+<a href="https://github.com/kushwaha-aryan/movieV3">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-<br/><br/>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=kushwaha-aryan&label=Profile%20views&color=a18cd1&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/kushwaha-aryan?style=for-the-badge&logo=github&color=764ba2&labelColor=1b1c3d" alt="followers" />
-<img src="https://img.shields.io/github/stars/kushwaha-aryan?style=for-the-badge&logo=github&color=f093fb&labelColor=1b1c3d" alt="stars" />
+<td width="50%" valign="top">
 
-<br/><br/>
+## 🤖 AgenticAI
 
-<a href="https://github.com/kushwaha-aryan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:aryankushwaha9829@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://kushwaha-aryan.github.io/resume/"><img src="https://img.shields.io/badge/Portfolio-a18cd1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://leetcode.com/dartGoblin42"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+Multi-agent AI portfolio advisor built for a hackathon.
 
-<br/><br/><br/>
+**Architecture**
 
-<!-- ABOUT -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:667eea,100:f093fb&height=170&text=About%20Me&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="About Me" />
+* 🧠 Analyst Agent
+* ⚠️ Risk Agent
+* 💡 Advisor Agent
+* 💬 Multi-turn Q&A
+* 🔧 LLM tool/function calling
+* 📊 Deterministic calculations
+* 🌐 Browser-based interface
 
-<br/><br/>
+**Stack**
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=300&text=Building&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=A%20Movie%20Recommendation%20Platform&descSize=30&descAlignY=72" width="400" alt="Building" />
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=300&text=Learning&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Node.js%20%C2%B7%20REST%20APIs%20%C2%B7%20Databases&descSize=30&descAlignY=72" width="400" alt="Learning" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:d57eeb&height=300&text=Collaborating&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%26%20open%20source%20JS%2FPython&descSize=30&descAlignY=72" width="400" alt="Collaborating" />
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a6c0fe,100:f68084&height=300&text=Ask%20me%20about&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=JavaScript%20%C2%B7%20Python%20%C2%B7%20C%20%C2%B7%20Node.js&descSize=30&descAlignY=72" width="400" alt="Ask me about" />
+`Python` `Groq` `Pandas` `JavaScript` `LLM Agents`
 
-<br/>
+<p>
+<a href="https://github.com/kushwa-aryan/AgenticAi">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎧 Edge AI Earbud Supervisor
+
+ML-based audio classification system designed for local earbud mode decisions.
+
+**Focus**
+
+* 🎵 Audio classification
+* 🧠 Lightweight CNN
+* ⚡ Edge inference
+* 🔒 Local processing
+* 📊 Dataset engineering
+
+**Stack**
+
+`Python` `PyTorch` `CNN` `Audio ML`
+
+<p>
+<a href="https://github.com/kushwa-aryan/edge-ai-earbud-supervisor">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎥 MovieV2
+
+Earlier version of the movie platform focused on core movie discovery.
+
+**Features**
+
+* Search
+* Genre filtering
+* Sorting
+* Infinite scrolling
+* Reviews
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
+
+<p>
+<a href="https://kushwa-aryan.github.io/MovieV2/">
+<img src="https://img.shields.io/badge/Live%20Demo-6366f1?style=for-the-badge"/>
+</a>
+<a href="https://github.com/kushwa-aryan/MovieV2">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧩 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dartGoblin42?theme=dark&font=baloo&ext=contest"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/dartGoblin42/">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+> Currently grinding DSA because apparently knowing how to reverse a linked list is still not enough to get hired.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kushwa-aryan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwa-aryan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=kushwa-aryan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushwa-aryan&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 Experience & Highlights
 
 <details>
-<summary><b>🎲 Fun fact (click to reveal)</b></summary>
-<br/>
+<summary><b>Conference Volunteer — IMPACT 2025</b></summary>
 
-> I break code more than I build it — then fix it... eventually. 🛠️
+<br>
+
+IEEE-sponsored international conference at BIT Mesra.
+
+* Worked with Microsoft CMT
+* Assisted with reviewer assignment and status tracking
+* Supported a conference receiving **550+ submissions**
 
 </details>
 
-<br/><br/>
+<details>
+<summary><b>Hackathon — AgenticAI</b></summary>
 
-<!-- TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:43cea2,100:185a9d&height=170&text=Tech%20Stack&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="Tech Stack" />
+<br>
 
-<br/><br/>
+Built an AI-powered portfolio analysis system as part of a 2-person team.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,cpp,c,git,github,mongodb,mysql,express&theme=dark&perline=12" alt="skills" />
+Finished **5th among 8 teams**.
 
-<br/><br/><br/>
+</details>
 
-<!-- PROJECTS -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:f093fb,100:f5576c&height=170&text=Featured%20Projects&fontSize=70&fontColor=ffffff&fontAlignY=50" width="340" alt="Featured Projects" />
+---
 
-<br/><br/>
+# 🎯 Current Roadmap
 
-<a href="https://kushwaha-aryan.github.io/movieV3/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=560&text=MovieV3&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Movie%20search%20%26%20discovery&descSize=44&descAlignY=78" width="260" alt="MovieV3" /></a>
-<a href="https://kushwaha-aryan.github.io/resume/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=560&text=Resume%20Site&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Clean%2C%20responsive%20portfolio&descSize=44&descAlignY=78" width="260" alt="Resume Site" /></a>
-<a href="https://kushwaha-aryan.github.io/rpg/"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:f5576c&height=560&text=RPG%20Game&fontSize=110&fontColor=ffffff&fontAlignY=60&desc=Browser%20game%3A%20move%20%26%20fight&descSize=44&descAlignY=78" width="260" alt="RPG Game" /></a>
-<br/>
-<a href="https://github.com/kushwaha-aryan/movieV3"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:a18cd1,100:fbc2eb&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
-<a href="https://github.com/kushwaha-aryan/resume"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:5ee7a8,100:8fd3f4&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
-<a href="https://github.com/kushwaha-aryan/rpg"><img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fccb90,100:f5576c&height=110&text=Source%20code&fontSize=48&fontColor=ffffff&fontAlignY=50" width="260" alt="Source code" /></a>
+```text
+DSA
+████████████████░░░░  → Interview Preparation
 
-<br/><br/><br/>
+Backend
+███████████░░░░░░░░░  → Node.js / REST / Databases
 
-<!-- STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:4facfe,100:00f2fe&height=170&text=GitHub%20Stats&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="GitHub Stats" />
+Core CS
+███████░░░░░░░░░░░░░  → OS / DBMS / CN / OOP
 
-<br/><br/>
+AI / ML
+██████████░░░░░░░░░░  → Practical ML Systems
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kushwaha-aryan&show_icons=true&hide_border=true&border_radius=28&count_private=true&bg_color=1b1c3d&title_color=a18cd1&icon_color=fbc2eb&text_color=d9dcff&ring_color=a18cd1" alt="stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&hide_border=true&border_radius=28&bg_color=1b1c3d&title_color=a18cd1&text_color=d9dcff" alt="top langs" />
+Cloud
+█████░░░░░░░░░░░░░░░  → AWS Fundamentals
+```
 
-<br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=kushwaha-aryan&hide_border=true&border_radius=28&background=1b1c3d&ring=a18cd1&fire=fbc2eb&currStreakNum=d9dcff&sideNums=d9dcff&currStreakLabel=a18cd1&sideLabels=a18cd1&dates=9ea3d9" alt="streak" />
+# 📚 Currently Learning
 
-<br/><br/>
+`DSA` · `Node.js` · `Express.js` · `REST APIs` · `DBMS` · `OS` · `Computer Networks` · `AWS` · `Machine Learning`
 
-<img src="https://ghchart.rshah.org/a18cd1/kushwaha-aryan" width="95%" alt="contribution chart" />
+---
 
-<br/><br/><br/>
+# 🤝 Connect
 
-<!-- LEETCODE -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&section=header&color=0:fa709a,100:fee140&height=170&text=LeetCode&fontSize=70&fontColor=ffffff&fontAlignY=50" width="300" alt="LeetCode" />
+<p align="center">
 
-<br/><br/>
+<a href="https://github.com/kushwa-aryan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://leetcard.jacoblin.cool/dartGoblin42?theme=dark&font=baloo&ext=contest" alt="leetcode" />
+<a href="https://leetcode.com/u/dartGoblin42/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<br/><br/>
+<a href="mailto:aryankushwaha9829@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kushwaha-aryan&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+</p>
 
-<br/><br/>
-
-<sub>💡 Got an idea or want to build something together? <a href="mailto:aryankushwaha9829@gmail.com"><b>Let's talk</b></a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f093fb,50:764ba2,100:667eea&section=footer" width="100%" alt="footer" />
-
-</div>
+<p align="center">
+  <i>Build something. Break something. Learn something.</i>
+</p>
