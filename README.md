@@ -87,9 +87,9 @@
       <h3>🎥 MovieV3</h3>
       <sub>Movie search with filters + infinite scroll</sub>
       <br/><br/>
-      <a href="https://kushwaha-aryan.github.io/MovieV3/"><img src="https://img.shields.io/badge/Live-Demo-24c6dc?style=for-the-badge" /></a>
+      <a href="https://kushwaha-aryan.github.io/movieV3/"><img src="https://img.shields.io/badge/Live-Demo-24c6dc?style=for-the-badge" /></a>
       <br/>
-      <a href="https://github.com/kushwaha-aryan/MovieV3"><img src="https://img.shields.io/badge/Source-Code-302b63?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/kushwaha-aryan/movieV3"><img src="https://img.shields.io/badge/Source-Code-302b63?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>📄 Resume Website</h3>
