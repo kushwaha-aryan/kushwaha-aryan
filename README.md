@@ -73,8 +73,8 @@
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kushwaha-aryan&show_icons=true&hide_border=true&border_radius=28&count_private=true&bg_color=1b1c3d&title_color=a18cd1&icon_color=fbc2eb&text_color=d9dcff&ring_color=a18cd1" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&hide_border=true&border_radius=28&bg_color=1b1c3d&title_color=a18cd1&text_color=d9dcff" alt="top langs" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kushwaha-aryan&show_icons=true&hide_border=true&border_radius=28&count_private=true&bg_color=1b1c3d&title_color=a18cd1&icon_color=fbc2eb&text_color=d9dcff&ring_color=a18cd1" alt="stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kushwaha-aryan&layout=compact&hide_border=true&border_radius=28&bg_color=1b1c3d&title_color=a18cd1&text_color=d9dcff" alt="top langs" />
 
 <br/>
 
@@ -82,7 +82,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushwaha-aryan&bg_color=1b1c3d&color=d9dcff&line=a18cd1&point=fbc2eb&area=true&area_color=764ba2&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph" />
+<img src="https://ghchart.rshah.org/a18cd1/kushwaha-aryan" width="95%" alt="contribution chart" />
 
 <br/><br/><br/>
 
