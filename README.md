@@ -9,12 +9,6 @@
   <a href="https://kushwaha-aryan.github.io/resume/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushwaha-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kushwaha-aryan?label=Followers&logo=github&color=7c3aed&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/kushwaha-aryan/AgenticAI?label=Last%20commit&color=ec4899&style=flat" alt="Last commit" />
-</p>
-
 ---
 
 ## 🚀 About Me
