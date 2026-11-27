@@ -27,13 +27,69 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 
 ## Work I can show, *not just describe.*
 
-| Project | What it does | Stack &amp; links |
-|---|---|---|
-| **01 · [PayPilot](https://github.com/kushwaha-aryan/paypilot)** | AI payment recovery and risk agent submitted to the PayPal AI Hackathon. Gemini proposes structured actions; a deterministic policy gate and human approval decide what may execute. PayPal Sandbox only, not production payment processing. | Python · FastAPI · Gemini 3.1 Flash Lite · PayPal Sandbox REST APIs<br>[Repository ↗](https://github.com/kushwaha-aryan/paypilot) |
-| **02 · [Edge AI Acoustic Supervisor](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor)** | Locally running audio classifier and supervisor. YAMNet audio embeddings feed an MLP classifier across 17 sound classes from mixed public datasets; approximately 81.09% validation clip accuracy. Four software-simulated audio modes, with no earbud or ANC hardware integration. | Python · YAMNet · MLP · TensorFlow · scikit-learn<br>[Repository ↗](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor) |
-| **03 · [MovieV3](https://github.com/kushwaha-aryan/movieV3)** | Movie discovery platform with authentication, watchlists, favorites, watched history, reviews and recommendations, backed by a REST API. | JavaScript · Node.js · Express · MongoDB · REST API<br>[Repository ↗](https://github.com/kushwaha-aryan/movieV3) · [Live demo ↗](https://kushwaha-aryan.github.io/movieV3/) |
-| **04 · [AgenticAI](https://github.com/kushwaha-aryan/AgenticAI)** | Hackathon project exploring a multi-agent portfolio advisor that keeps computed facts separate from generated advice. | Python · Groq · LLM APIs · JavaScript<br>[Repository ↗](https://github.com/kushwaha-aryan/AgenticAI) |
-| **05 · [Business Entity Resolution](https://github.com/kushwaha-aryan/business-entity-resolution)** | Research project linking noisy business records across three sources using normalization, blocking keys, similarity features and a staged evaluation pipeline. | Python · Data processing · Entity matching · Blocking<br>[Repository ↗](https://github.com/kushwaha-aryan/business-entity-resolution) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> **01 / AI AGENT · PAYMENTS**
+> ### [PayPilot](https://github.com/kushwaha-aryan/paypilot)
+> AI payment recovery and risk agent submitted to the PayPal AI Hackathon. Gemini proposes structured actions; a deterministic policy gate and human approval decide what may execute. PayPal Sandbox only — not production payment processing.
+>
+> `Python` · `FastAPI` · `Gemini 3.1 Flash Lite` · `PayPal Sandbox REST APIs`
+>
+> [Repository ↗](https://github.com/kushwaha-aryan/paypilot) · Policy-gated flow
+
+</td>
+<td width="50%" valign="top">
+
+> **02 / EDGE AI · AUDIO ML**
+> ### [Edge AI Acoustic Supervisor](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor)
+> Locally running audio classifier and supervisor. YAMNet audio embeddings feed an MLP classifier across 17 sound classes from mixed public datasets; approximately 81.09% validation clip accuracy. Four software-simulated audio modes, with no earbud or ANC hardware integration.
+>
+> `Python` · `YAMNet` · `MLP` · `TensorFlow` · `scikit-learn`
+>
+> [Repository ↗](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor) · Local prototype
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **03 / FULL-STACK · MOVIES**
+> ### [MovieV3](https://github.com/kushwaha-aryan/movieV3)
+> Movie discovery platform with authentication, watchlists, favorites, watched history, reviews and recommendations, backed by a REST API.
+>
+> `JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST API`
+>
+> [Repository ↗](https://github.com/kushwaha-aryan/movieV3) · [Live demo ↗](https://kushwaha-aryan.github.io/movieV3/)
+
+</td>
+<td width="50%" valign="top">
+
+> **04 / AI AGENT · PORTFOLIO**
+> ### [AgenticAI](https://github.com/kushwaha-aryan/AgenticAI)
+> Hackathon project exploring a multi-agent portfolio advisor that keeps computed facts separate from generated advice.
+>
+> `Python` · `Groq` · `LLM APIs` · `JavaScript`
+>
+> [Repository ↗](https://github.com/kushwaha-aryan/AgenticAI) · Hackathon project
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+> **05 / ML · DATA**
+> ### [Business Entity Resolution](https://github.com/kushwaha-aryan/business-entity-resolution)
+> Research project linking noisy business records across three sources using normalization, blocking keys, similarity features and a staged evaluation pipeline.
+>
+> `Python` · `Data processing` · `Entity matching` · `Blocking`
+>
+> [Repository ↗](https://github.com/kushwaha-aryan/business-entity-resolution) · Research project
+
+</td>
+</tr>
+</table>
 
 ---
 
