@@ -27,11 +27,15 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 
 ## Work I can show, *not just describe.*
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-> **01 / AI AGENT · PAYMENTS**
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%" valign="top">
+
+> <img src="assets/dot-accent.svg" width="8" height="8" alt="Blue accent dot"> **01 / AI AGENT · PAYMENTS**
 > ### [PayPilot](https://github.com/kushwaha-aryan/paypilot)
 > AI payment recovery and risk agent submitted to the PayPal AI Hackathon. Gemini proposes structured actions; a deterministic policy gate and human approval decide what may execute. PayPal Sandbox only — not production payment processing.
 >
@@ -40,9 +44,24 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 > [Repository ↗](https://github.com/kushwaha-aryan/paypilot) · Policy-gated flow
 
 </td>
+<td width="32%" valign="top">
+
+<a href="https://github.com/kushwaha-aryan/paypilot"><img src="assets/paypilot-figure.svg" alt="Diagram of a request passing through a policy gate before a payment action" width="100%"></a>
+
+`POLICY GATE`
+
+</td>
+</tr>
+</table>
+
+</td>
 <td width="50%" valign="top">
 
-> **02 / EDGE AI · AUDIO ML**
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%" valign="top">
+
+> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **02 / EDGE AI · AUDIO ML**
 > ### [Edge AI Acoustic Supervisor](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor)
 > Locally running audio classifier and supervisor. YAMNet audio embeddings feed an MLP classifier across 17 sound classes from mixed public datasets; approximately 81.09% validation clip accuracy. Four software-simulated audio modes, with no earbud or ANC hardware integration.
 >
@@ -51,11 +70,26 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 > [Repository ↗](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor) · Local prototype
 
 </td>
+<td width="32%" valign="top">
+
+<a href="https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor"><img src="assets/edge-ai-figure.svg" alt="Blue waveform above seventeen category markers" width="100%"></a>
+
+`17 CLASSES`
+
+</td>
+</tr>
+</table>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-> **03 / FULL-STACK · MOVIES**
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%" valign="top">
+
+> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **03 / FULL-STACK · MOVIES**
 > ### [MovieV3](https://github.com/kushwaha-aryan/movieV3)
 > Movie discovery platform with authentication, watchlists, favorites, watched history, reviews and recommendations, backed by a REST API.
 >
@@ -64,9 +98,24 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 > [Repository ↗](https://github.com/kushwaha-aryan/movieV3) · [Live demo ↗](https://kushwaha-aryan.github.io/movieV3/)
 
 </td>
+<td width="32%" valign="top">
+
+<a href="https://github.com/kushwaha-aryan/movieV3"><img src="assets/moviev3-figure.svg" alt="Wireframe of a movie discovery interface with a poster grid" width="100%"></a>
+
+`WATCHLIST VIEW`
+
+</td>
+</tr>
+</table>
+
+</td>
 <td width="50%" valign="top">
 
-> **04 / AI AGENT · PORTFOLIO**
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%" valign="top">
+
+> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **04 / AI AGENT · PORTFOLIO**
 > ### [AgenticAI](https://github.com/kushwaha-aryan/AgenticAI)
 > Hackathon project exploring a multi-agent portfolio advisor that keeps computed facts separate from generated advice.
 >
@@ -75,17 +124,43 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 > [Repository ↗](https://github.com/kushwaha-aryan/AgenticAI) · Hackathon project
 
 </td>
+<td width="32%" valign="top">
+
+<a href="https://github.com/kushwaha-aryan/AgenticAI"><img src="assets/agenticai-figure.svg" alt="Connected agent nodes around a central blue deterministic core" width="100%"></a>
+
+`AGENT GRAPH`
+
+</td>
+</tr>
+</table>
+
+</td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-> **05 / ML · DATA**
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%" valign="top">
+
+> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **05 / ML · DATA**
 > ### [Business Entity Resolution](https://github.com/kushwaha-aryan/business-entity-resolution)
 > Research project linking noisy business records across three sources using normalization, blocking keys, similarity features and a staged evaluation pipeline.
 >
 > `Python` · `Data processing` · `Entity matching` · `Blocking`
 >
 > [Repository ↗](https://github.com/kushwaha-aryan/business-entity-resolution) · Research project
+
+</td>
+<td width="32%" valign="top">
+
+<a href="https://github.com/kushwaha-aryan/business-entity-resolution"><img src="assets/entity-resolution-figure.svg" alt="Two clusters of records converging into one matched entity" width="100%"></a>
+
+`RECORD CLUSTERS`
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>

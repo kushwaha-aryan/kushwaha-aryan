@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-labelledby="title desc">
+  <title id="title">Seventeen sound classes</title>
+  <desc id="desc">A blue audio waveform above seventeen category markers.</desc>
+  <rect width="120" height="120" fill="#ffffff"/>
+  <rect x=".5" y=".5" width="119" height="119" fill="none" stroke="#e3e0d9"/>
+  <circle cx="10" cy="10" r="3" fill="#9d5718"/>
+  <path d="M12 96h96" stroke="#cfcbc1"/>
+  <path d="M10 68c8 0 8-26 16-26s8 40 16 40 8-52 16-52 8 52 16 52 8-26 16-26 8 12 20 12" fill="none" stroke="#2a45d8" stroke-width="1.6" stroke-linecap="round"/>
+  <g stroke="#121216" stroke-opacity=".45">
+    <path d="M14 96v6M20 96v6M26 96v6M32 96v6M38 96v6M44 96v6M50 96v6M56 96v6M62 96v6M68 96v6M74 96v6M80 96v6M86 96v6M92 96v6M98 96v6M104 96v6M110 96v6"/>
+  </g>
+  <circle cx="58" cy="42" r="9" fill="none" stroke="#2a45d8" stroke-opacity=".4"/>
+  <circle cx="58" cy="42" r="3" fill="#2a45d8"/>
+</svg>

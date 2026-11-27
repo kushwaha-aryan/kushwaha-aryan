@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-labelledby="title desc">
+  <title id="title">Agent graph</title>
+  <desc id="desc">Four connected agent nodes around a central blue deterministic core.</desc>
+  <rect width="120" height="120" fill="#ffffff"/>
+  <rect x=".5" y=".5" width="119" height="119" fill="none" stroke="#e3e0d9"/>
+  <circle cx="10" cy="10" r="3" fill="#9d5718"/>
+  <circle cx="60" cy="60" r="34" fill="none" stroke="#cfcbc1" stroke-dasharray="2 5"/>
+  <path d="M60 26 94 60 60 94 26 60Z" fill="none" stroke="#cfcbc1" stroke-opacity=".7"/>
+  <path d="M60 26v68M26 60h68" stroke="#121216" stroke-opacity=".18"/>
+  <g fill="none" stroke="#2a45d8">
+    <circle cx="60" cy="26" r="5"/>
+    <circle cx="94" cy="60" r="5"/>
+    <circle cx="60" cy="94" r="5"/>
+    <circle cx="26" cy="60" r="5"/>
+  </g>
+  <rect x="54" y="54" width="12" height="12" fill="#2a45d8" opacity=".9" transform="rotate(45 60 60)"/>
+</svg>
