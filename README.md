@@ -27,29 +27,22 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 
 ## Work I can show, *not just describe.*
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
-
-> <img src="assets/dot-accent.svg" width="8" height="8" alt="Blue accent dot"> **01 / AI AGENT · PAYMENTS**
-> ### [PayPilot](https://github.com/kushwaha-aryan/paypilot)
-> AI payment recovery and risk agent submitted to the PayPal AI Hackathon. Gemini proposes structured actions; a deterministic policy gate and human approval decide what may execute. PayPal Sandbox only — not production payment processing.
->
-> `Python` · `FastAPI` · `Gemini 3.1 Flash Lite` · `PayPal Sandbox REST APIs`
->
-> [Repository ↗](https://github.com/kushwaha-aryan/paypilot) · Policy-gated flow
-
+<td width="80%" valign="top">
+<b><img src="assets/dot-accent.svg" width="8" height="8" alt=""> 01 / AI AGENT · PAYMENTS</b><br>
+<a href="https://github.com/kushwaha-aryan/paypilot"><b>PayPilot</b></a><br>
+AI payment recovery and risk agent submitted to the PayPal AI Hackathon. Gemini proposes actions; a deterministic gate and human approval decide. Sandbox only.<br>
+<code>Python</code> · <code>FastAPI</code> · <code>Gemini 3.1 Flash Lite</code> · <code>PayPal Sandbox</code><br>
+<a href="https://github.com/kushwaha-aryan/paypilot">Repository ↗</a> · Policy-gated flow
 </td>
-<td width="32%" valign="top">
-
-<a href="https://github.com/kushwaha-aryan/paypilot"><img src="assets/paypilot-figure.svg" alt="Diagram of a request passing through a policy gate before a payment action" width="100%"></a>
-
-`POLICY GATE`
-
+<td width="20%" valign="top" align="right">
+<a href="https://github.com/kushwaha-aryan/paypilot"><img src="assets/paypilot-figure.svg" width="52" height="52" alt="Policy gate flow"></a><br>
+<code>POLICY GATE</code>
 </td>
 </tr>
 </table>
@@ -57,25 +50,18 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 </td>
 <td width="50%" valign="top">
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
-
-> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **02 / EDGE AI · AUDIO ML**
-> ### [Edge AI Acoustic Supervisor](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor)
-> Locally running audio classifier and supervisor. YAMNet audio embeddings feed an MLP classifier across 17 sound classes from mixed public datasets; approximately 81.09% validation clip accuracy. Four software-simulated audio modes, with no earbud or ANC hardware integration.
->
-> `Python` · `YAMNet` · `MLP` · `TensorFlow` · `scikit-learn`
->
-> [Repository ↗](https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor) · Local prototype
-
+<td width="80%" valign="top">
+<b><img src="assets/dot-signal.svg" width="8" height="8" alt=""> 02 / EDGE AI · AUDIO ML</b><br>
+<a href="https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor"><b>Edge AI Acoustic Supervisor</b></a><br>
+YAMNet → MLP across 17 mixed-source sound classes; 81.09% validation clip accuracy. Four software-simulated modes only.<br>
+<code>Python</code> · <code>YAMNet</code> · <code>MLP</code> · <code>TensorFlow</code><br>
+<a href="https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor">Repository ↗</a> · Local prototype
 </td>
-<td width="32%" valign="top">
-
-<a href="https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor"><img src="assets/edge-ai-figure.svg" alt="Blue waveform above seventeen category markers" width="100%"></a>
-
-`17 CLASSES`
-
+<td width="20%" valign="top" align="right">
+<a href="https://github.com/kushwaha-aryan/edge-ai-acoustic-supervisor"><img src="assets/edge-ai-figure.svg" width="52" height="52" alt="Waveform above 17 class markers"></a><br>
+<code>17 CLASSES</code>
 </td>
 </tr>
 </table>
@@ -85,25 +71,18 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 <tr>
 <td width="50%" valign="top">
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
-
-> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **03 / FULL-STACK · MOVIES**
-> ### [MovieV3](https://github.com/kushwaha-aryan/movieV3)
-> Movie discovery platform with authentication, watchlists, favorites, watched history, reviews and recommendations, backed by a REST API.
->
-> `JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST API`
->
-> [Repository ↗](https://github.com/kushwaha-aryan/movieV3) · [Live demo ↗](https://kushwaha-aryan.github.io/movieV3/)
-
+<td width="80%" valign="top">
+<b><img src="assets/dot-signal.svg" width="8" height="8" alt=""> 03 / FULL-STACK · MOVIES</b><br>
+<a href="https://github.com/kushwaha-aryan/movieV3"><b>MovieV3</b></a><br>
+Movie discovery with auth, watchlists, favorites, history, reviews and recommendations via a REST API.<br>
+<code>JavaScript</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code><br>
+<a href="https://github.com/kushwaha-aryan/movieV3">Repository ↗</a> · <a href="https://kushwaha-aryan.github.io/movieV3/">Live demo ↗</a>
 </td>
-<td width="32%" valign="top">
-
-<a href="https://github.com/kushwaha-aryan/movieV3"><img src="assets/moviev3-figure.svg" alt="Wireframe of a movie discovery interface with a poster grid" width="100%"></a>
-
-`WATCHLIST VIEW`
-
+<td width="20%" valign="top" align="right">
+<a href="https://github.com/kushwaha-aryan/movieV3"><img src="assets/moviev3-figure.svg" width="52" height="52" alt="Movie watchlist wireframe"></a><br>
+<code>WATCHLIST</code>
 </td>
 </tr>
 </table>
@@ -111,25 +90,18 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 </td>
 <td width="50%" valign="top">
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
-
-> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **04 / AI AGENT · PORTFOLIO**
-> ### [AgenticAI](https://github.com/kushwaha-aryan/AgenticAI)
-> Hackathon project exploring a multi-agent portfolio advisor that keeps computed facts separate from generated advice.
->
-> `Python` · `Groq` · `LLM APIs` · `JavaScript`
->
-> [Repository ↗](https://github.com/kushwaha-aryan/AgenticAI) · Hackathon project
-
+<td width="80%" valign="top">
+<b><img src="assets/dot-signal.svg" width="8" height="8" alt=""> 04 / AI AGENT · PORTFOLIO</b><br>
+<a href="https://github.com/kushwaha-aryan/AgenticAI"><b>AgenticAI</b></a><br>
+Multi-agent portfolio advisor that keeps computed facts separate from generated advice.<br>
+<code>Python</code> · <code>Groq</code> · <code>LLM APIs</code> · <code>JavaScript</code><br>
+<a href="https://github.com/kushwaha-aryan/AgenticAI">Repository ↗</a> · Hackathon project
 </td>
-<td width="32%" valign="top">
-
-<a href="https://github.com/kushwaha-aryan/AgenticAI"><img src="assets/agenticai-figure.svg" alt="Connected agent nodes around a central blue deterministic core" width="100%"></a>
-
-`AGENT GRAPH`
-
+<td width="20%" valign="top" align="right">
+<a href="https://github.com/kushwaha-aryan/AgenticAI"><img src="assets/agenticai-figure.svg" width="52" height="52" alt="Agent graph"></a><br>
+<code>AGENT GRAPH</code>
 </td>
 </tr>
 </table>
@@ -139,25 +111,18 @@ I learn by finishing projects: a policy-gated payments agent, a locally running 
 <tr>
 <td colspan="2" valign="top">
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
-
-> <img src="assets/dot-signal.svg" width="8" height="8" alt="Warm signal dot"> **05 / ML · DATA**
-> ### [Business Entity Resolution](https://github.com/kushwaha-aryan/business-entity-resolution)
-> Research project linking noisy business records across three sources using normalization, blocking keys, similarity features and a staged evaluation pipeline.
->
-> `Python` · `Data processing` · `Entity matching` · `Blocking`
->
-> [Repository ↗](https://github.com/kushwaha-aryan/business-entity-resolution) · Research project
-
+<td width="80%" valign="top">
+<b><img src="assets/dot-signal.svg" width="8" height="8" alt=""> 05 / ML · DATA</b><br>
+<a href="https://github.com/kushwaha-aryan/business-entity-resolution"><b>Business Entity Resolution</b></a><br>
+Links noisy business records across three sources using normalization, blocking keys and similarity features.<br>
+<code>Python</code> · <code>Entity matching</code> · <code>Blocking</code><br>
+<a href="https://github.com/kushwaha-aryan/business-entity-resolution">Repository ↗</a> · Research project
 </td>
-<td width="32%" valign="top">
-
-<a href="https://github.com/kushwaha-aryan/business-entity-resolution"><img src="assets/entity-resolution-figure.svg" alt="Two clusters of records converging into one matched entity" width="100%"></a>
-
-`RECORD CLUSTERS`
-
+<td width="20%" valign="top" align="right">
+<a href="https://github.com/kushwaha-aryan/business-entity-resolution"><img src="assets/entity-resolution-figure.svg" width="52" height="52" alt="Record clusters"></a><br>
+<code>RECORD CLUSTERS</code>
 </td>
 </tr>
 </table>
