@@ -4,9 +4,9 @@
 
 <a href="https://github.com/kushwaha-aryan">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=4058E8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+Patna+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=1E33A8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+Patna+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=1E33A8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+Patna+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end" alt="Typing animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=4058E8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=1E33A8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=1E33A8&center=true&vCenter=true&width=640&height=36&lines=B.Tech+AI+%26+ML+at+BIT+Mesra%2C+%282028%29;APIs+and+data+models+that+stay+correct;DSA+every+single+day;Shipping+projects+end+to+end" alt="Typing animation" />
   </picture>
 </a>
 
